@@ -89,8 +89,8 @@ tester.run(
                             "destination": "../"
                         },
                         {
-                            "source": "^../../subdir/",
-                            "destination": "subdir/"
+                            "source": "^../../(subdir)/",
+                            "destination": "$1/"
                         },
                         {
                             "source": "^../../linkTestFile.md",
