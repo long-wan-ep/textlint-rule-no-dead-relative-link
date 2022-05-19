@@ -62,7 +62,7 @@ jobs:
 
   test:
     needs: [check_duplicate_workflow]
-    runs-on: macos-12
+    runs-on: ubuntu-22.04
     if: ${{ needs.check_duplicate_workflow.outputs.should_skip != 'true' }}
     steps:
       - name: Check out repository code
