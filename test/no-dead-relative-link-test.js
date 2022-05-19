@@ -136,28 +136,23 @@ tester.run(
                     column: 140
                 },
                 {
-                    message: "Anchor #header-7 does not exist in linkTestFile.md",
-                    line: 5,
-                    column: 129
-                },
-                {
                     message: "linkTestFile.md has no mapped routing",
-                    line: 6,
+                    line: 5,
                     column: 72
                 },
                 {
                     message: "linkTestFile.md has no mapped routing",
-                    line: 7,
+                    line: 6,
                     column: 87
                 },
                 {
                     message: "The routed destination for linkTestFile.md does not exist",
-                    line: 8,
+                    line: 7,
                     column: 85
                 },
                 {
                     message: "The routed destination for linkTestFile.md does not exist",
-                    line: 9,
+                    line: 8,
                     column: 100
                 }
             ]
@@ -229,28 +224,23 @@ tester.run(
                         column: 140
                     },
                     {
-                        message: "Anchor #header-7 does not exist in linkTestFile.md",
-                        line: 5,
-                        column: 129
-                    },
-                    {
                         message: "linkTestFile.md has no mapped routing",
-                        line: 6,
+                        line: 5,
                         column: 72
                     },
                     {
                         message: "linkTestFile.md has no mapped routing",
-                        line: 7,
+                        line: 6,
                         column: 87
                     },
                     {
                         message: "The routed destination for linkTestFile.md does not exist",
-                        line: 8,
+                        line: 7,
                         column: 85
                     },
                     {
                         message: "The routed destination for linkTestFile.md does not exist",
-                        line: 9,
+                        line: 8,
                         column: 100
                     }
                 ]
