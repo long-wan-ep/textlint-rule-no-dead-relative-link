@@ -41,6 +41,9 @@
       "main"
     ]
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "textlintrule",
     "textlint",
