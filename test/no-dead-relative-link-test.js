@@ -90,7 +90,7 @@ tester.run(
                         },
                         {
                             "source": "^../../(subdir)/",
-                            "destination": "./$1/"
+                            "destination": "$1/"
                         },
                         {
                             "source": "^../../linkTestFile.md",
