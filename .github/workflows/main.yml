@@ -73,7 +73,6 @@ jobs:
           cache: 'yarn'
       - name: Run tests
         run: |
-          apt install tree
           yarn install
           tree test
           yarn test
